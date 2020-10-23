@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/soroGuide/static/js/main.83f65a37.chunk.js",
-    "main.js.map": "/soroGuide/static/js/main.83f65a37.chunk.js.map",
+    "main.js": "/soroGuide/static/js/main.a2efa2cf.chunk.js",
+    "main.js.map": "/soroGuide/static/js/main.a2efa2cf.chunk.js.map",
     "runtime-main.js": "/soroGuide/static/js/runtime-main.26062620.js",
     "runtime-main.js.map": "/soroGuide/static/js/runtime-main.26062620.js.map",
     "static/css/2.3cf5d70f.chunk.css": "/soroGuide/static/css/2.3cf5d70f.chunk.css",
-    "static/js/2.47deec96.chunk.js": "/soroGuide/static/js/2.47deec96.chunk.js",
-    "static/js/2.47deec96.chunk.js.map": "/soroGuide/static/js/2.47deec96.chunk.js.map",
+    "static/js/2.4f2ffce5.chunk.js": "/soroGuide/static/js/2.4f2ffce5.chunk.js",
+    "static/js/2.4f2ffce5.chunk.js.map": "/soroGuide/static/js/2.4f2ffce5.chunk.js.map",
     "index.html": "/soroGuide/index.html",
-    "precache-manifest.bf857baa7db0edcf9b73eeb882bf5bb6.js": "/soroGuide/precache-manifest.bf857baa7db0edcf9b73eeb882bf5bb6.js",
+    "precache-manifest.58481f56b9772814a88f1616ba3b5c66.js": "/soroGuide/precache-manifest.58481f56b9772814a88f1616ba3b5c66.js",
     "service-worker.js": "/soroGuide/service-worker.js",
     "static/css/2.3cf5d70f.chunk.css.map": "/soroGuide/static/css/2.3cf5d70f.chunk.css.map",
-    "static/js/2.47deec96.chunk.js.LICENSE.txt": "/soroGuide/static/js/2.47deec96.chunk.js.LICENSE.txt"
+    "static/js/2.4f2ffce5.chunk.js.LICENSE.txt": "/soroGuide/static/js/2.4f2ffce5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26062620.js",
     "static/css/2.3cf5d70f.chunk.css",
-    "static/js/2.47deec96.chunk.js",
-    "static/js/main.83f65a37.chunk.js"
+    "static/js/2.4f2ffce5.chunk.js",
+    "static/js/main.a2efa2cf.chunk.js"
   ]
 }
