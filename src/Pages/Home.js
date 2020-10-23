@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>hi mom</h1>
+      <h1>greetings</h1>
         <p>
           This is the start of my sauro guide
         </p>
