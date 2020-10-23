@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div>
       <nav className="navbar navbar-dark bg-dark pl-0"><ul>
-        <li style={liStyle}><Link to="/">Home</Link></li>
+        <li style={liStyle}><Link to="/soroGuide">Home</Link></li>
         <li style={liStyle}><Link to="/Thugs">Thugs</Link></li>
         <li style={liStyle}><Link to="/Communions">Communions</Link></li>
       </ul></nav>
