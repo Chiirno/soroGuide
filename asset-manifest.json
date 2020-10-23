@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/soroGuide/static/js/main.796a9fea.chunk.js",
+    "main.js.map": "/soroGuide/static/js/main.796a9fea.chunk.js.map",
+    "runtime-main.js": "/soroGuide/static/js/runtime-main.26062620.js",
+    "runtime-main.js.map": "/soroGuide/static/js/runtime-main.26062620.js.map",
+    "static/css/2.3cf5d70f.chunk.css": "/soroGuide/static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.47deec96.chunk.js": "/soroGuide/static/js/2.47deec96.chunk.js",
+    "static/js/2.47deec96.chunk.js.map": "/soroGuide/static/js/2.47deec96.chunk.js.map",
+    "index.html": "/soroGuide/index.html",
+    "precache-manifest.805a754facc690c1da05f29d0fc15189.js": "/soroGuide/precache-manifest.805a754facc690c1da05f29d0fc15189.js",
+    "service-worker.js": "/soroGuide/service-worker.js",
+    "static/css/2.3cf5d70f.chunk.css.map": "/soroGuide/static/css/2.3cf5d70f.chunk.css.map",
+    "static/js/2.47deec96.chunk.js.LICENSE.txt": "/soroGuide/static/js/2.47deec96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26062620.js",
+    "static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.47deec96.chunk.js",
+    "static/js/main.796a9fea.chunk.js"
+  ]
+}
