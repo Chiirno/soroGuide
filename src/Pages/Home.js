@@ -23,19 +23,6 @@ const Home = () => {
         Warrior band for 5 slaves. (Const 2)<br/>
         Amulet of Resilience for 10 Ngems. (Const 4)<br/>
         </p>
-
-        <h2> Thug paths </h2>
-        <p>
-          Barkskin (Alt 1)<br/>
-          Quicken Self (Alt 2)<br/>
-          Mossbody (Alt 3)<br/>
-          Protection (Alt 3)<br/>
-          Luck (Alt 3)<br/>
-          Body Ethereal (Alt 4)<br/>
-          Personal Regeneration (Ench 2)<br/>
-          Regeneration (Ench 3)<br/>
-          Awaken Tattoos (Ench 3)<br/>
-        </p>
         <h2>Point Buffing</h2>
         <h4>Point buffing is when use buff troops with small AoE spells, like body ethereal</h4>
         <p> Good point buff spells include:
