@@ -14,15 +14,18 @@ const Thugs = () => {
     )
   }
 
+
+
   return (
     <div>
       <h1>This is the page for thugsss of all stripes</h1>
 
       <h2> Thug paths </h2>
-      <p>
-      
+      <div>
+
       {makeSpell(Spellbook.Barkskin)}
       {makeSpell(Spellbook.QuickenSelf)}
+
 
 
         Mossbody (Alt 3)<br/>
@@ -32,7 +35,7 @@ const Thugs = () => {
         Personal Regeneration (Ench 2)<br/>
         Regeneration (Ench 3)<br/>
         Awaken Tattoos (Ench 3)<br/>
-      </p>
+      </div>
     </div>
   )
 }
