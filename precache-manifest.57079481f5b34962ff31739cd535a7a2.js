@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "328d5d072f7a9e6df4815f83251deff6",
+    "revision": "d6600e8891529b2a23d3903b1ea0b34b",
     "url": "/soroGuide/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soroGuide/static/js/2.0ac9e763.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc506939043d01d22724",
-    "url": "/soroGuide/static/js/main.1a53b9aa.chunk.js"
+    "revision": "de9f5c91ed12769280b9",
+    "url": "/soroGuide/static/js/main.56129689.chunk.js"
   },
   {
     "revision": "3f11937d53e1deee5a24",
